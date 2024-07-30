@@ -83,7 +83,7 @@ To set up the project for development:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/PromptMaker.git
+   git clone https://github.com/cehinson/PromptMaker.git
    cd PromptMaker
    ```
 
